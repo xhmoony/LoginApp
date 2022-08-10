@@ -10,7 +10,7 @@
 		E711C312289AA7190087578D /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E711C311289AA7190087578D /* WelcomeViewController.swift */; };
 		E735F2F228A128EC00DB06F4 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E735F2F128A128EC00DB06F4 /* User.swift */; };
 		E735F2F428A292E400DB06F4 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E735F2F328A292E400DB06F4 /* SettingsViewController.swift */; };
-		E735F2F628A2930B00DB06F4 /* SubscriptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E735F2F528A2930B00DB06F4 /* SubscriptionsViewController.swift */; };
+		E735F2F628A2930B00DB06F4 /* UserInformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E735F2F528A2930B00DB06F4 /* UserInformationViewController.swift */; };
 		E735F2F828A2934100DB06F4 /* GalleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E735F2F728A2934100DB06F4 /* GalleryViewController.swift */; };
 		E7C83B272899A160009B6A63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7C83B262899A160009B6A63 /* AppDelegate.swift */; };
 		E7C83B292899A160009B6A63 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7C83B282899A160009B6A63 /* SceneDelegate.swift */; };
@@ -24,7 +24,7 @@
 		E711C311289AA7190087578D /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		E735F2F128A128EC00DB06F4 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		E735F2F328A292E400DB06F4 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
-		E735F2F528A2930B00DB06F4 /* SubscriptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionsViewController.swift; sourceTree = "<group>"; };
+		E735F2F528A2930B00DB06F4 /* UserInformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInformationViewController.swift; sourceTree = "<group>"; };
 		E735F2F728A2934100DB06F4 /* GalleryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryViewController.swift; sourceTree = "<group>"; };
 		E7C83B232899A160009B6A63 /* LoginForm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginForm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7C83B262899A160009B6A63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -78,7 +78,7 @@
 				E711C311289AA7190087578D /* WelcomeViewController.swift */,
 				E7C83B2A2899A160009B6A63 /* LoginViewController.swift */,
 				E735F2F328A292E400DB06F4 /* SettingsViewController.swift */,
-				E735F2F528A2930B00DB06F4 /* SubscriptionsViewController.swift */,
+				E735F2F528A2930B00DB06F4 /* UserInformationViewController.swift */,
 				E735F2F728A2934100DB06F4 /* GalleryViewController.swift */,
 				E7C83B262899A160009B6A63 /* AppDelegate.swift */,
 				E7C83B282899A160009B6A63 /* SceneDelegate.swift */,
@@ -168,7 +168,7 @@
 				E7C83B292899A160009B6A63 /* SceneDelegate.swift in Sources */,
 				E735F2F828A2934100DB06F4 /* GalleryViewController.swift in Sources */,
 				E735F2F428A292E400DB06F4 /* SettingsViewController.swift in Sources */,
-				E735F2F628A2930B00DB06F4 /* SubscriptionsViewController.swift in Sources */,
+				E735F2F628A2930B00DB06F4 /* UserInformationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -8,16 +8,13 @@
 import UIKit
 
 class GalleryViewController: UIViewController {
-    var user: User!
-
     @IBOutlet var imageView: UIImageView!
+    
+    
+    var user: User!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         imageView.image = UIImage(named: user.person.selfie)
-     
     }
-    
-
-
 }
